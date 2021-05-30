@@ -9,5 +9,7 @@ int main(int argc, char const *argv[])
     scanf("%i",&a);
     printf("%i\n",a);
     printf("ulima riga");
+
+    printf("aggiunta da giamma");
     return 0;
 }
