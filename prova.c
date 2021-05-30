@@ -6,6 +6,7 @@ int main(int argc, char const *argv[])
     printf("dammi un mnumero\n");
     scanf("%i",&a);
     printf("%i\n",a);
-    #prova
+    #prova altro
+    #secondo
     return 0;
 }
