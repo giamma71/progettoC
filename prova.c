@@ -2,6 +2,7 @@
 
 int main(int argc, char const *argv[])
 {
+    printf("MASTER");
     printf("prima rigna");
     int a=0;
     printf("dammi un mnumero\n");
